@@ -1,0 +1,1 @@
+{"name":"Local: quests","url":"c:\\Users\\HOME-PC\\Desktop\\cp\\quests.cpp","tests":[{"id":1658419800192,"input":"7 6\n10 8 9 6 8 12 7\n1 2\n1 7\n4 6\n7 1\n3 5\n4 2\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HOME-PC\\Desktop\\cp\\quests.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: middleANDreverse_ll","url":"d:\\dd\\cp\\middleANDreverse_ll.cpp","tests":[{"id":1661748947181,"input":"6\n1 2 3 4 5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\dd\\cp\\middleANDreverse_ll.cpp","group":"local","local":true}

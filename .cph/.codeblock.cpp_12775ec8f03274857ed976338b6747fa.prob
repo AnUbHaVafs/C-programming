@@ -1,0 +1,1 @@
+{"name":"Local: codeblock","url":"d:\\dd\\cp\\codeblock.cpp","tests":[{"id":1661410279485,"input":"7\n3 9 -11 20 -25 6 72\n0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\dd\\cp\\codeblock.cpp","group":"local","local":true}
